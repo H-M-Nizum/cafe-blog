@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "The Rise of AI in Everyday Life",
+    "cover_img": "https://picsum.photos/seed/ai/800/400",
+    "author": {
+      "name": "John Doe",
+      "img": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    "created_at": "29-March-2025",
+    "reading_time": 5,
+    "tags": ["#AI", "#Technology", "#Future", "#Innovation"]
+  },
+  {
+    "id": 2,
+    "title": "Mastering Python for Web Development",
+    "cover_img": "https://picsum.photos/seed/python/800/400",
+    "author": {
+      "name": "Jane Smith",
+      "img": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    "created_at": "28-March-2025",
+    "reading_time": 7,
+    "tags": ["#Python", "#Web Development", "#Programming", "#Backend"]
+  },
+  {
+    "id": 3,
+    "title": "Top 10 JavaScript Frameworks in 2025",
+    "cover_img": "https://picsum.photos/seed/javascript/800/400",
+    "author": {
+      "name": "Alice Johnson",
+      "img": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    "created_at": "27-March-2025",
+    "reading_time": 6,
+    "tags": ["#JavaScript", "#Frontend", "#Web Development", "#Frameworks"]
+  },
+  {
+    "id": 4,
+    "title": "How to Build Scalable APIs with FastAPI",
+    "cover_img": "https://picsum.photos/seed/fastapi/800/400",
+    "author": {
+      "name": "Michael Lee",
+      "img": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    "created_at": "26-March-2025",
+    "reading_time": 8,
+    "tags": ["#FastAPI", "#Backend", "#Python", "#API Development"]
+  },
+  {
+    "id": 5,
+    "title": "The Future of Cloud Computing in 2030",
+    "cover_img": "https://picsum.photos/seed/cloud/800/400",
+    "author": {
+      "name": "Emily Davis",
+      "img": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    "created_at": "25-March-2025",
+    "reading_time": 10,
+    "tags": ["#Cloud Computing", "#Technology", "#Future", "#DevOps"]
+  }
+]

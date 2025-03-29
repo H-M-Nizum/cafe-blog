@@ -1,0 +1,13 @@
+.btn-link:hover {
+  color: #ff5733 !important;
+  text-decoration: underline;
+}
+/* Default button styling */
+.btn-mark {
+  color: #333; /* Initial color */
+}
+
+/* When clicked, the color changes */
+.btn-marked {
+  color: #ff6347; /* Red color (or any color you want) */
+}
